@@ -1,3 +1,3 @@
-const orders = () => <div />;
-
-export default orders;
+export default function orders() {
+  return <h1>Orders Page</h1>;
+}
