@@ -1,3 +1,3 @@
-const account = () => <div />;
-
-export default account;
+export default function Account() {
+  return <p>Account Page</p>;
+}
